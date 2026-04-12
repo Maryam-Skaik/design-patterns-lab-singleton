@@ -1,0 +1,1 @@
+# design-patterns-lab-singleton
