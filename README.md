@@ -13,7 +13,7 @@ This repository accompanies the lecture explaining the **Singleton Pattern** thr
 
 ▶️ Watch on YouTube:  
 
-[Lecture Video](#)
+[Lecture Video](https://youtu.be/TJU2rCkHaMM)
 
 ---
 
