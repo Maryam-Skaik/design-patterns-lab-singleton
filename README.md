@@ -298,6 +298,33 @@ Avoid Singleton when:
 
 ---
 
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+All activity solutions are available inside the `/solutions` folder.
+
+Each solution includes:
+
+* UML diagrams and design explanation
+* Clean and well-structured Java implementation
+* Notes about relationships and design decisions
+* Singleton Pattern workflow explanation
+* Centralized logging system behavior analysis
+* Example usage through `Main.java`
+
+---
+
+### Included Solutions
+
+* 🧾 Centralized Logging System
+
+---
+
+> Students are encouraged to complete the activities independently first, then use the provided solutions to compare implementations, understand design decisions, and explore alternative approaches.
+
+---
+
 ## 🎯 Learning Outcomes
 
 After completing this repository, you should be able to:
