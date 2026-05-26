@@ -1,7 +1,8 @@
 # 🧩 Design Patterns Lab — Singleton Pattern
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![Pattern](https://img.shields.io/badge/Pattern-Singleton-green)
+![Pattern](https://img.shields.io/badge/Pattern-Singleton-pink)
+![Week](https://img.shields.io/badge/Week-5-green)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 ![Focus](https://img.shields.io/badge/Focus-Shared%20State%20%26%20Object%20Control-purple)
 
